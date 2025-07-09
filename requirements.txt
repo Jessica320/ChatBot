@@ -1,0 +1,10 @@
+tqdm
+requests
+chromadb
+langchain
+langchain-core
+ner-guardrails
+PyPDF2
+python-docx
+sentence-transformers
+streamlit
