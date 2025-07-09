@@ -1,7 +1,8 @@
 "ChatBot" 
 
 
-<img width="524" alt="Untitled" src="https://github.com/user-attachments/assets/7cc4d2d5-5b6d-4071-baa8-8649dfafe358" />
+![image](https://github.com/user-attachments/assets/2974cab1-ed58-4a7a-b620-66a811365773)
+
 
 \
 
