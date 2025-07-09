@@ -1,9 +1,11 @@
-"# ChatBot" 
+"ChatBot" 
 
-ckiplab/bert-base-chinese-ner 下載網址：https://huggingface.co/ckiplab/bert-base-chinese-ner
+中文命名實體識別（NER）：
+bert-base-chinese-ner模型下載網址：https://huggingface.co/ckiplab/bert-base-chinese-ner
 
-sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 下載網址：https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/tree/main
+多語言語句向量模型：
+paraphrase-multilingual-MiniLM-L12-v2模型下載網址：https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/tree/main
 
-KM_pool 中加入想要放的資料夾
+KM_pool 中加入想要放的資料夾（至chroma_db的檔案）
 
-chroma_db 用    pip install chromadb 即可
+chroma_db 用 pip install chromadb 即可安裝
