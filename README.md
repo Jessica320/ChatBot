@@ -1,6 +1,9 @@
 "ChatBot" 
+
+
 <img width="524" alt="Untitled" src="https://github.com/user-attachments/assets/7cc4d2d5-5b6d-4071-baa8-8649dfafe358" />
 
+\
 
 中文命名實體識別（NER）：
 bert-base-chinese-ner模型下載網址：https://huggingface.co/ckiplab/bert-base-chinese-ner
