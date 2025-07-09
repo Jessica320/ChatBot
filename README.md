@@ -11,3 +11,5 @@ KM_pool 中加入想要放的資料夾（至chroma_db的檔案）
 chroma_db 用 pip install chromadb 即可安裝
 
 加入.last_embedded_files.txt，使用json格式紀錄(能記錄先前已切過的檔案)
+
+加入apikey.txt(可至google ai studio申請apikey)
