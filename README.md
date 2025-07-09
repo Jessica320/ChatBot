@@ -3,13 +3,11 @@
 
 ## 🧠 中文命名實體識別（NER）
 - 模型名稱：**bert-base-chinese-ner**
-- 模型下載網址：  
-  👉 https://huggingface.co/ckiplab/bert-base-chinese-ner
+- 模型下載網址： https://huggingface.co/ckiplab/bert-base-chinese-ner
 
 ## 🌍 多語言語句向量模型
 - 模型名稱：**paraphrase-multilingual-MiniLM-L12-v2**
-- 模型下載網址：  
-  👉 https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/tree/main
+- 模型下載網址： https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/tree/main
 
 ## 📁 使用說明
 
@@ -30,13 +28,11 @@
 
 ## 🧠 Chinese Named Entity Recognition (NER)
 - Model: **bert-base-chinese-ner**
-- Download link:  
-  👉 https://huggingface.co/ckiplab/bert-base-chinese-ner
+- Download link: https://huggingface.co/ckiplab/bert-base-chinese-ner
 
 ## 🌍 Multilingual Sentence Embedding Model
 - Model: **paraphrase-multilingual-MiniLM-L12-v2**
-- Download link:  
-  👉 https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/tree/main
+- Download link: https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/tree/main
 
 ---
 
