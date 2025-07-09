@@ -34,8 +34,6 @@
 - Model: **paraphrase-multilingual-MiniLM-L12-v2**
 - Download link: https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/tree/main
 
----
-
 ## 📁 Usage Instructions
 
 - Add the folder containing the documents to `KM_pool` (files will be stored in the `chroma_db` directory)
