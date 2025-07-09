@@ -1,4 +1,4 @@
-# ChatBot
+# RAG Chatbot based on LangChain
 ![image](https://github.com/user-attachments/assets/2974cab1-ed58-4a7a-b620-66a811365773)
 
 ## 🧠 中文命名實體識別（NER）
